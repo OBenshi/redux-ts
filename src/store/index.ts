@@ -1,2 +1,3 @@
-import * as store from './store';
-import * as actionCreators from './actionCreators';
+export * from './store';
+export * as actionCreators from './actionCreators';
+export * from './reducers';
